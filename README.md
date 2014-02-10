@@ -12,4 +12,5 @@
 ```
 1) knife solo prepare melody
 2) knife cookbook create iptables -o site-cookbooks # クックブックの作成
+3) knife solo cook melody # 実行先のサーバを指定する
 ```
