@@ -6,3 +6,9 @@
 3) vagrant up
 4) vagrant ssh-config --host melody >> ~/.ssh/config # 仮想サーバのホスト名がmelody
 ```
+
+### Chef
+
+```
+1) knife solo prepare melody
+```
