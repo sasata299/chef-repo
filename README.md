@@ -14,3 +14,8 @@
 2) knife cookbook create iptables -o site-cookbooks # クックブックの作成
 3) knife solo cook melody # 実行先のサーバを指定する
 ```
+
+### Opscode cookbooks
+```
+a) knife cookbook site vendor yum
+a) knife cookbook site vendor yum-epel
